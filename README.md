@@ -1,2 +1,11 @@
 # Home-Media-Setup
 Here we were asked to make a reference for someone conducting a meeting about a topic of our choice
+
+
+Instructions:  For this assessment you are required to create a Workshop Document that would be used for either option below:
+A.	A Marketing Event, at a Technical Seminar for individual who will be making a decision to purchase a Software Product.
+B.	A Customer Support Event, at an organization that has contracted some training for End User.
+
+
+What you are required to do is:   Create an MS Word Document.  You need to create a Word file with the following filename: AAAAZZZZ9999.  AAAA are the first letters of your first name, ZZZZZ are the first 4 letters of your last name. 9999 are the last 4 digits of your student ID.  This file will be uploaded to the CA3 drop box on Moodle.
+This document needs to have a professional appearance, and would act as a support document for whoever was running the workshop.  You do not need to create content for every item on the Workshop Event Agenda.  You need to create content for 4 sections of the Workshop.  You can use PowerPoint, Word, or any other MS app to create the content for these sections.  Also, you can use templates to help generate this submission.  Guidelines: page count (1) title page, (1) TOC, Exec Summary, Workshop Plan (here is where you will identify the purpose of the Workshop, now long it will be and which communication channels you will use (to advertise and/or run the workshop) and Attendee Profile on the same page (1).  4 Topics (1 page each section) (4), Survey (1), Declaration (1) page,(1) Flyer to advertise this event plus 3 to 5 other pages to complete the CA.
